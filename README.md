@@ -5,9 +5,9 @@
 <br>
 <br>
 <p>
-Name: Sharif
-Marks: 95
-Grade: A
+Name: Sharif<br>
+Marks: 95<br>
+Grade: A<br>
 <br>
 <br>
 Excellent</p>
